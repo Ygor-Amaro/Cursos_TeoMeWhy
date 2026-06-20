@@ -1,0 +1,12 @@
+services:
+  sqlite-engine:
+    image: coleifer/sqlite-web
+    container_name: engine-sqlite
+    ports:
+      - "8080:8080"
+    volumes:
+      # Mapeia a subpasta específica onde o .db está para dentro do container
+      - ./curso-sql:/data
+    environment:
+      # Diz para a interface qual arquivo ler dentro da pasta mapeada
+      - SQLITE_DATABASE=database.db

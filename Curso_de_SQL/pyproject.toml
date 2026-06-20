@@ -1,0 +1,15 @@
+[project]
+name = "curso-de-sql"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "taskipy>=1.14.1",
+]
+
+[tool.taskipy.tasks]
+ativar    = {cmd = "docker compose up -d",    help = "Ativa o ambiente docker que contem a engine do SQLite"}
+desativar = {cmd = "docker compose stop", help = "Desativa o ambiente docker"}
+excluir = {cmd = "docker compose down", help = "Desativa o ambiente docker"}
+executar = {cmd = "docker compose run --rm -v ./curso-sql:/data -w /data alpine sh -c 'apk add --no-cache sqlite && sqlite3 database.db' <", help = "Executa um arquivo SQL local dentro do Docker"}
