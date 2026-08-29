@@ -1,0 +1,43 @@
+No ramo main
+Your branch is up to date with 'origin/main'.
+
+Mudanças a serem submetidas:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   Machine_Learning
+	renamed:    Curso_de_SQL/.gitignore -> SQL/.gitignore
+	renamed:    Curso_de_SQL/.python-version -> SQL/.python-version
+	renamed:    Curso_de_SQL/00_curso-sql/clientes.csv -> SQL/00_curso-sql/clientes.csv
+	renamed:    Curso_de_SQL/00_curso-sql/database.db -> SQL/00_curso-sql/database.db
+	renamed:    Curso_de_SQL/00_curso-sql/produtos.csv -> SQL/00_curso-sql/produtos.csv
+	renamed:    Curso_de_SQL/00_curso-sql/transacao_produto.csv -> SQL/00_curso-sql/transacao_produto.csv
+	renamed:    Curso_de_SQL/00_curso-sql/transacoes.csv -> SQL/00_curso-sql/transacoes.csv
+	renamed:    Curso_de_SQL/01_aula/01_select.sql -> SQL/01_aula/01_select.sql
+	renamed:    Curso_de_SQL/01_aula/02_tables.sql -> SQL/01_aula/02_tables.sql
+	renamed:    Curso_de_SQL/01_aula/03_select_from.sql -> SQL/01_aula/03_select_from.sql
+	renamed:    Curso_de_SQL/01_aula/04_select_from_where.sql -> SQL/01_aula/04_select_from_where.sql
+	renamed:    Curso_de_SQL/01_aula/05_select_col.sql -> SQL/01_aula/05_select_col.sql
+	renamed:    Curso_de_SQL/01_aula/06_orderby.sql -> SQL/01_aula/06_orderby.sql
+	renamed:    Curso_de_SQL/01_aula/07_case_when.sql -> SQL/01_aula/07_case_when.sql
+	renamed:    Curso_de_SQL/02_exercicios/01_where.sql -> SQL/02_exercicios/01_where.sql
+	renamed:    Curso_de_SQL/02_exercicios/02_where.sql -> SQL/02_exercicios/02_where.sql
+	renamed:    Curso_de_SQL/02_exercicios/03_where.sql -> SQL/02_exercicios/03_where.sql
+	renamed:    Curso_de_SQL/02_exercicios/04_where.sql -> SQL/02_exercicios/04_where.sql
+	renamed:    Curso_de_SQL/02_tempo_de_foco/01_where.sql -> SQL/02_tempo_de_foco/01_where.sql
+	renamed:    Curso_de_SQL/02_tempo_de_foco/02_where.sql -> SQL/02_tempo_de_foco/02_where.sql
+	renamed:    Curso_de_SQL/02_tempo_de_foco/03_where.sql -> SQL/02_tempo_de_foco/03_where.sql
+	renamed:    Curso_de_SQL/02_tempo_de_foco/04_where.sql -> SQL/02_tempo_de_foco/04_where.sql
+	renamed:    Curso_de_SQL/02_tempo_de_foco/05_where.sql -> SQL/02_tempo_de_foco/05_where.sql
+	renamed:    Curso_de_SQL/02_tempo_de_foco/06_where.sql -> SQL/02_tempo_de_foco/06_where.sql
+	renamed:    Curso_de_SQL/02_tempo_de_foco/07_where.sql -> SQL/02_tempo_de_foco/07_where.sql
+	renamed:    Curso_de_SQL/02_tempo_de_foco/08_where.sql -> SQL/02_tempo_de_foco/08_where.sql
+	renamed:    Curso_de_SQL/02_tempo_de_foco/09_where.sql -> SQL/02_tempo_de_foco/09_where.sql
+	renamed:    Curso_de_SQL/README.md -> SQL/README.md
+	renamed:    Curso_de_SQL/docker-compose.yml -> SQL/docker-compose.yml
+	renamed:    Curso_de_SQL/main.py -> SQL/main.py
+	renamed:    Curso_de_SQL/pyproject.toml -> SQL/pyproject.toml
+	renamed:    Curso_de_SQL/uv.lock -> SQL/uv.lock
+
+Arquivos não monitorados:
+  (utilize "git add <arquivo>..." para incluir o que será submetido)
+	statusgit.txt
+
